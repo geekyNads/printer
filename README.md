@@ -8,3 +8,4 @@ Run: `cd web && npm install && npm run dev`
 
 See `VIVA_TEAM_PLAN.md` for the 4-person split and viva notes.
 Rashi Yadav
+Mustafiz Ahmed
